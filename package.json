@@ -1,0 +1,19 @@
+{
+  "name": "@kws1207/types-eth-keyring-controller",
+  "version": "0.0.1",
+  "description": "Typescript declaration for eth-keyring-controller package",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kws1207/types-eth-keyring-controller.git"
+  },
+  "author": "Sam Woosung Kim <kws1207@kaist.ac.kr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kws1207/types-eth-keyring-controller/issues"
+  },
+  "homepage": "https://github.com/kws1207/types-eth-keyring-controller#readme",
+  "peerDependencies": {
+    "eth-keyring-controller": "7.0.2"
+  }
+}

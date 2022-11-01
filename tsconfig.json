@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    "lib": [ "es2017" ],
+    "sourceMap": true,
+    "declaration": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    "typeRoots": [
+      "node_modules/@kws1207",
+      "types"
+    ]
+  },
+  "include": [
+    "index.d.ts"
+  ]
+}
